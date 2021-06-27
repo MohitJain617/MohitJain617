@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohitJain617
-- 👀 I’m interested in eating pizza.
+- 👀 I’m interested in eating pizza 🍕.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Leave me a mail at mohit20221@iiitd.ac.in
