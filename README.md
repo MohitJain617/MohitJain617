@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohit Jain (MJ)
 - 👀 I’m interested in eating pizza 🍕.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on looking things to collaborate on.
 - 📫 How to reach me: Leave me a mail at mohit20221@iiitd.ac.in
 
 <!---
